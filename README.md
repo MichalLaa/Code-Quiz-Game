@@ -9,6 +9,9 @@ I created a quiz that contains several questions about coding, points are added 
 At the end of the quiz, a table appears that saves all the results and names of the players, where there is also an option to return to the quiz and play again or delete all results.
 This quiz was intended to demonstrate my coding skills in HTML, CSS and JavaScript.
 
+
+Here is my link to the quiz - https://michallaa.github.io/Code-Quiz-Game/
+
 # Quiz
 
 Start Quiz.
